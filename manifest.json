@@ -1,0 +1,9 @@
+{
+    "id": "AvenskolAdventurers",
+    "title": "Avenskol Adventurers",
+    "description": "A Avenskol minimod that adds encounters and a set of presets.",
+    "version": "0.1.0",
+    "author": "{{w-W-o-O-r-R sequence|Avenkyr Pakacit}}",
+    "tags": "Creature,Preset,Tile",
+    "PreviewImage": "preview.png"
+}

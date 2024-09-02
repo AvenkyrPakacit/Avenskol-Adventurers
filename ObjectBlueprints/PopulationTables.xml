@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<populations>
+
+  <!--NPCs-->
+
+  <population Name="AAVPE_EncounterTier1">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier2">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier3">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier4">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier5">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier6">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier7">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_EncounterTier8">
+    <group Name="Encounters" Style="pickone">
+      <table Name="AAVPE_MutantsTier" />
+      <table Name="AAVPE_TrueKinTier" />
+    </group>
+  </population>
+
+  <population Name="AAVPE_MutantsTier">
+    <group Name="Contents" Style="pickeach">
+      <group Name="Additional" Style="pickone">
+        <table Weight="2" Name="AAVPE_MutantsTier" Chance="10" />
+        <table Name="AAVPE_TrueKinTier" Chance="10" />
+      </group>
+      <group Name="Creatures" Style="pickone">
+        <object Number="0-2" Blueprint="AAVPE_Aekavyr" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Ajitak" />
+        <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
+        <object Number="0-2" Blueprint="AAVPE_Dyavi" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Iyavi" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Kalavyl" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+      </group>
+    </group>
+  </population>
+
+  <population Name="AAVPE_TrueKinTier">
+    <group Name="Contents" Style="pickeach">
+      <group Name="Additional" Style="pickone">
+        <table Name="AAVPE_MutantsTier" Chance="10" />
+        <table Weight="2" Name="AAVPE_TrueKinTier" Chance="10" />
+      </group>
+      <group Name="Creatures" Style="pickone">
+        <object Number="0-2" Blueprint="AAVPE_Akevalyx" />
+        <object Number="0-2" Blueprint="AAVPE_Akvalyx" />
+        <object Number="0-2" Blueprint="AAVPE_Atevalyx" />
+        <object Number="0-2" Blueprint="AAVPE_Azadus" />
+        <object Number="0-2" Blueprint="AAVPE_Azdius" />
+        <object Number="0-2" Blueprint="AAVPE_Azkaos" />
+        <object Number="0-2" Blueprint="AAVPE_Azkidus" />
+        <object Number="0-2" Blueprint="AAVPE_Balkine" />
+        <object Number="0-2" Blueprint="AAVPE_Ikvalyx" />
+        <object Number="0-2" Blueprint="AAVPE_Kanati" />
+        <object Number="0-2" Blueprint="AAVPE_Rikani" />
+        <object Number="0-2" Blueprint="AAVPE_Tamikai" />
+      </group>
+    </group>
+  </population>
+
+  <!--Vanilla-->
+
+  <population Name="Tier1RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier1" />
+      <table Name="AAVPE_EncounterTier2" />
+    </group>
+  </population>
+
+  <population Name="Tier2RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier1" />
+      <table Weight="3" Name="AAVPE_EncounterTier2" />
+      <table Name="AAVPE_EncounterTier3" />
+    </group>
+  </population>
+
+  <population Name="Tier3RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier2" />
+      <table Weight="3" Name="AAVPE_EncounterTier3" />
+      <table Name="AAVPE_EncounterTier4" />
+    </group>
+  </population>
+
+  <population Name="Tier4RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier3" />
+      <table Weight="3" Name="AAVPE_EncounterTier4" />
+      <table Name="AAVPE_EncounterTier5" />
+    </group>
+  </population>
+
+  <population Name="Tier5RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier4" />
+      <table Weight="3" Name="AAVPE_EncounterTier5" />
+      <table Name="AAVPE_EncounterTier6" />
+    </group>
+  </population>
+
+  <population Name="Tier6RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier5" />
+      <table Weight="3" Name="AAVPE_EncounterTier6" />
+      <table Name="AAVPE_EncounterTier7" />
+    </group>
+  </population>
+
+  <population Name="Tier7RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier6" />
+      <table Weight="3" Name="AAVPE_EncounterTier7" />
+      <table Name="AAVPE_EncounterTier8" />
+    </group>
+  </population>
+
+  <population Name="Tier8RuinsCreatures" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Name="AAVPE_EncounterTier7" />
+      <table Weight="2" Name="AAVPE_EncounterTier8" />
+    </group>
+  </population>
+
+</populations>
