@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversations>
+
+  <!--Mutants-->
+
+  <conversation ID="AAVPE_Aekavyr">
+    <node ID="Start">
+      <text>
+        All is welcome within the light.~
+        Bask in the light of my aura.~
+        Darkness ceases to approach my aura.~
+        Is there something you need?~
+        May the light of my aura favour you.~
+        Mind the light.
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Akdara">
+    <node ID="Start">
+      <text>
+        AXES READY!~
+        CHOP CHOP!~
+        TO ARMS!
+      </text>
+      <choice GotoID="End">Live and drink, wayfarers..</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Ajitak">
+    <node ID="Start">
+      <text>
+        Claws are sharpened.~
+        Is there something you need?~
+        Mind the antlers.~
+        The herd is in need of supplies, don't interrupt the scavenging.
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Chyratyl">
+    <node ID="Start">
+      <text>
+        Ammo ready.~
+        Ammunition is full.~
+        Ready to fire.~
+        Time to fire.
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Dyavi">
+    <node ID="Start">
+      <text>
+        All avians watch, but from where? The sky? The land? The answer is already known.~
+        All is welcome to wander the natural world and find peace.~
+        I'm but a mere druid watching as nature flourishes.~
+        Is there something you need?~
+        May the natural world bring you peace.~
+        Mind the horn.
+      </text>
+      <choice GotoID="End">Live and drink, druid.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Eskvalyr">
+    <node ID="Start">
+      <text>
+        Is there something you need?~
+        Mind the stinger.~
+        My poison is best avoided.~
+        Tail is sharpened, and ready to sting.~
+        Yes my blade is as starp as my tail, although that's of no concern.
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Iyavi">
+    <node ID="Start">
+      <text>
+        BURN!~
+        BURN BURN!~
+        NOWHERE TO HIDE!~
+        NOWHERE TO RUN!~
+        READY TO RUN!~
+        TIME TO BURN!
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Ixanae">
+    <node ID="Start">
+      <text>
+        I sense a psychic presence foreign to this place and time. Heh, let them come.~
+        I sense the animus of a vast mind. Heh, let them come.~
+        I heard you from several planes over.~
+        I'd advise caution if you intend to follow. Time and space, aren't always on my side.~
+        How long have I been here?~
+        Time is the will of fate. It is inevitable.~
+        Time may appear slow, but soon hours pass within minutes, and seconds in turn.~
+        You can see me? I felt as though I was within a separate plane of existance.~
+        You stand before a road less traveled. A road that takes me through time and space.~
+        You there, =player.formalAddressTerm=! What day is it?~
+        You there, =player.formalAddressTerm=! What month is it?~
+        You there, =player.formalAddressTerm=! What year is it?~
+        You there, =player.formalAddressTerm=! What happened in =month= of =year=?
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Kalavyl">
+    <node ID="Start">
+      <text>
+        Ah a seemingly friendly face! Care to browse our wares?~
+        Any of our wares interest you?~
+        Blessings of trade upon you.~
+        Blessings of travel upon you.~
+        {{emote|*=pronouns.Subjective= give an icy smirk*}}~
+        Fine baubles for sale. Come have a look!~
+        Lie? Hehe, it's merely from the kindness of our hearts.~
+        Might we interest one a gem or figurine for a loved one?~
+        Might we interest one in our wares?~
+        Plenty of finely crafted trinkets. Care to browse our wares?~
+        We've found an assortment of lovely trinkets on our travels, might one have a look?~
+        We've plenty of assorted wares. Care to have a look?~
+        We've plenty to trade, if one has any to spare.
+      </text>
+      <choice GotoID="End">Live and drink, wayfarers.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Orikate">
+    <node ID="Start">
+      <text>
+        {{emote|*shoves you aside*}}~
+        {{emote|*spins =pronouns.possessive= weapon*}}~
+        {{emote|*stares without blinking*}}~
+        I need to find =name=.~
+        I was sent to this dimension to hunt =name=.~
+        I was sent to this dimension to protect =name=.~
+        I was sent to this dimension to stop my past self.~
+        I'll be back.~
+        I'm on an important mission.~
+        I'm the dimension hunter. I was sent to this dimension find =name=.~
+        Stand aside.~
+        Tell me where I can find =name=.~
+        Where can I find =name=?
+      </text>
+      <choice GotoID="End">Live and drink, hunter.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Phenoka">
+    <node ID="Start">
+      <text>
+        I'm just a plantcaster.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, plantcaster.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Vanatyn">
+    <node ID="Start">
+      <text>
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Zavendyr">
+    <node ID="Start">
+      <text>
+        ALL HAIL, THE THUNDER GODS!~
+        {{emote|*=pronouns.Possessive= hands are raised with a metalic gesture*}}~
+        I CAN FEEL THE POWER COURSING THROUGH MY VEINS!~
+        I HAVE THE POWER OF ELECTRICITY!~
+        LET THEM HAVE LIGHTNING!~
+        SHOCK ME!~
+        THE EYE! THE ELECTRICITY!~
+        THEY COME, AND NOW THEY KNOW!~
+        YES! BASK IN THE LIGHT OF THE SPARKS!
+      </text>
+      <choice GotoID="End">...live and drink, shocktinker.</choice>
+    </node>
+  </conversation>
+
+  <!--TrueKin-->
+
+  <conversation ID="AAVPE_Akevalyx">
+    <node ID="Start">
+      <text>
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Akvalyx">
+    <node ID="Start">
+      <text>
+        I'm just a rogue.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, rogue.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Atevalyx">
+    <node ID="Start">
+      <text>
+        I'm just a priest.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, priest.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Azadus">
+    <node ID="Start">
+      <text>
+        I'm just a blaster.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, blaster.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Azdius">
+    <node ID="Start">
+      <text>
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Azkaos">
+    <node ID="Start">
+      <text>
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Azkidus">
+    <node ID="Start">
+      <text>
+        I'm just a tinker.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, tinker.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Balkine">
+    <node ID="Start">
+      <text>
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .~
+        .
+      </text>
+      <choice GotoID="End">Live and drink, wayfarer.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Ikvalyx">
+    <node ID="Start">
+      <text>
+        I'm just a scout.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, scout.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Kanati">
+    <node ID="Start">
+      <text>
+        I know what the robots like.~
+        I'm just a bolter.~
+        Locked and loaded!~
+        Need some firepower?~
+        Plenty of ammo to go around.~
+        You need a weapon?~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, bolter.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Rikani">
+    <node ID="Start">
+      <text>
+        I'm just a runner.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
+      </text>
+      <choice GotoID="End">Live and drink, runner.</choice>
+    </node>
+  </conversation>
+
+  <conversation ID="AAVPE_Tamikai">
+    <node ID="Start">
+      <text>
+        All hail the grand tapestry!~
+        Do not mock the grand tapestry!~
+        May the grand tapestry bless you!~
+        Pray before the grand tapestry!~
+        The grand tapestry smites the lesser tapestries!
+      </text>
+      <choice GotoID="End">...live and drink, priest.</choice>
+    </node>
+  </conversation>
+
+</conversations>
