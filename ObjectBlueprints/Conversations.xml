@@ -172,19 +172,7 @@
   <conversation ID="AAVPE_Vanatyn">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        Placeholder
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>
@@ -212,19 +200,7 @@
   <conversation ID="AAVPE_Akevalyx">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        Placeholder
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>
@@ -272,19 +248,7 @@
   <conversation ID="AAVPE_Azdius">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        Placeholder
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>
@@ -293,19 +257,7 @@
   <conversation ID="AAVPE_Azkaos">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        Placeholder
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>
@@ -327,19 +279,7 @@
   <conversation ID="AAVPE_Balkine">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        Placeholder
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>

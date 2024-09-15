@@ -144,10 +144,10 @@
     <stat Name="Ego" sValue="20,1d3" />
     <mutation Name="BlinkingTic" />
     <mutation Name="Esper" />
-    <mutation Name="ForceBubble" Level="1d3" />
-    <mutation Name="LightManipulation" Level="1d3" />
-    <mutation Name="MassMind" Level="1d3" />
-    <mutation Name="MentalMirror" Level="1d3" />
+    <mutation Name="ForceBubble" Level="1" />
+    <mutation Name="LightManipulation" Level="1" />
+    <mutation Name="MassMind" Level="1" />
+    <mutation Name="MentalMirror" Level="1" />
   </object>
 
   <object Name="AAVPE_Ajitak" Inherits="AAVPE_Arconaut">
@@ -162,12 +162,12 @@
     <stat Name="Willpower" sValue="18,1d3" />
     <stat Name="Ego" sValue="16,1d3" />
     <tag Name="RandomGender" Value="hartind,hindren female,hindren male" />
-    <mutation Name="BurrowingClaws" Level="1d3" />
-    <mutation Name="HeightenedStrength" Level="1d3" />
+    <mutation Name="BurrowingClaws" Level="1" />
+    <mutation Name="HeightenedStrength" Level="1" />
     <mutation Name="HooksForFeet" />
-    <mutation Name="Horns" Level="1d3" Variant="Horns Antlers" />
-    <mutation Name="HeightenedAgility" Level="1d3" />
-    <mutation Name="TwoHearted" Level="1d3" />
+    <mutation Name="Horns" Level="1" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="1" />
+    <mutation Name="TwoHearted" Level="1" />
   </object>
 
   <object Name="AAVPE_Akdara" Inherits="AAVPE_Marauder">
@@ -182,9 +182,9 @@
     <stat Name="Ego" sValue="14,1d3" />
     <mutation Name="Carnivorous" />
     <mutation Name="Chimera" />
-    <mutation Name="MultipleArms" Level="1d3" />
-    <mutation Name="MultipleLegs" Level="1d3" />
-    <mutation Name="TwoHeaded" Level="1d3" />
+    <mutation Name="MultipleArms" Level="1" />
+    <mutation Name="MultipleLegs" Level="1" />
+    <mutation Name="TwoHeaded" Level="1" />
   </object>
 
   <object Name="AAVPE_Chyratyl" Inherits="AAVPE_Gunslinger">
@@ -197,11 +197,11 @@
     <stat Name="Intelligence" sValue="18,1d3" />
     <stat Name="Willpower" sValue="20,1d3" />
     <stat Name="Ego" sValue="12,1d3" />
-    <mutation Name="AdrenalControl2" Level="1d3" />
-    <mutation Name="HeightenedAgility" Level="1d3" />
-    <mutation Name="HeightenedHearing" Level="1d3" />
-    <mutation Name="HeightenedQuickness" Level="1d3" />
-    <mutation Name="Wings" Level="1d3" />
+    <mutation Name="AdrenalControl2" Level="1" />
+    <mutation Name="HeightenedAgility" Level="1" />
+    <mutation Name="HeightenedHearing" Level="1" />
+    <mutation Name="HeightenedSpeed" Level="1" />
+    <mutation Name="Wings" Level="1" />
     <mutation Name="TonicAllergy" />
   </object>
 
@@ -218,10 +218,10 @@
     <stat Name="Ego" sValue="16,1d3" />
     <mutation Name="Amphibious" />
     <mutation Name="Beak" Variant="Beak Rostrum" />
-    <mutation Name="Horns" Level="1d3" Variant="Horns Single" />
-    <mutation Name="PhotosyntheticSkin" Level="1d3" />
+    <mutation Name="Horns" Level="1" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="1" />
     <mutation Name="ThickFur" />
-    <mutation Name="Wings" Level="1d3" />
+    <mutation Name="Wings" Level="1" />
   </object>
 
   <object Name="AAVPE_Eskvalyr" Inherits="AAVPE_Warden">
@@ -235,12 +235,12 @@
     <stat Name="Intelligence" sValue="20,1d3" />
     <stat Name="Willpower" sValue="20,1d3" />
     <stat Name="Ego" sValue="10,1d3" />
-    <mutation Name="AdrenalControl2" Level="1d3" />
+    <mutation Name="AdrenalControl2" Level="1" />
     <mutation Name="BrittleBones" />
-    <mutation Name="HeightenedAgility" Level="1d3" />
-    <mutation Name="HeightenedHearing" Level="1d3" />
-    <mutation Name="HeightenedStrength" Level="1d3" />
-    <mutation Name="Stinger" Level="1d3" Variant="Stinger Poison" />
+    <mutation Name="HeightenedAgility" Level="1" />
+    <mutation Name="HeightenedHearing" Level="1" />
+    <mutation Name="HeightenedStrength" Level="1" />
+    <mutation Name="Stinger" Level="1" Variant="Stinger Poison" />
   </object>
 
   <object Name="AAVPE_Iyavi" Inherits="AAVPE_Nomad">
@@ -253,12 +253,12 @@
     <stat Name="Intelligence" sValue="18,1d3" />
     <stat Name="Willpower" sValue="16,1d3" />
     <stat Name="Ego" sValue="14,1d3" />
-    <mutation Name="AdrenalControl2" Level="1d3" />
+    <mutation Name="AdrenalControl2" Level="1" />
     <mutation Name="Beak" Variant="Beak Frill" />
     <mutation Name="ColdBlooded" />
-    <mutation Name="FlamingRay" Level="1d3" BodyPartType="Face" />
-    <mutation Name="HeightenedQuickness" Level="1d3" />
-    <mutation Name="MultipleLegs" Level="1d3" />
+    <mutation Name="FlamingRay" Level="1" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="1" />
+    <mutation Name="MultipleLegs" Level="1" />
   </object>
 
   <object Name="AAVPE_Ixanae" Inherits="AAVPE_Pilgrim">
@@ -272,11 +272,11 @@
     <stat Name="Intelligence" sValue="20,1d3" />
     <stat Name="Willpower" sValue="20,1d3" />
     <stat Name="Ego" sValue="16,1d3" />
-    <mutation Name="HeightenedHearing" Level="1d3" />
-    <mutation Name="HeightenedStrength" Level="1d3" />
-    <mutation Name="Phasing" Level="1d3" />
-    <mutation Name="SpacetimeVortex" Level="1d3" />
-    <mutation Name="TimeDilation" Level="1d3" />
+    <mutation Name="HeightenedHearing" Level="1" />
+    <mutation Name="HeightenedStrength" Level="1" />
+    <mutation Name="Phasing" Level="1" />
+    <mutation Name="SpacetimeVortex" Level="1" />
+    <mutation Name="TimeDilation" Level="1" />
     <mutation Name="QuantumJitters" />
   </object>
 
@@ -292,10 +292,10 @@
     <stat Name="Ego" sValue="19,1d3" />
     <tag Name="RandomGender" Value="females,males,plural" />
     <mutation Name="Beak" Variant="Beak Bill" />
-    <mutation Name="FreezingRay" Level="1d3" BodyPartType="Face" />
+    <mutation Name="FreezingRay" Level="1" BodyPartType="Face" />
     <mutation Name="Myopia" />
-    <mutation Name="TemporalFugue" Level="1d3" />
-    <mutation Name="WillForce" Level="1d3" />
+    <mutation Name="TemporalFugue" Level="1" />
+    <mutation Name="WillForce" Level="1" />
   </object>
 
   <object Name="AAVPE_Orikate" Inherits="AAVPE_Marauder">
@@ -309,11 +309,11 @@
     <stat Name="Intelligence" sValue="16,1d3" />
     <stat Name="Willpower" sValue="17,1d3" />
     <stat Name="Ego" sValue="19,1d3" />
-    <mutation Name="Domination" Level="1d3" />
+    <mutation Name="Domination" Level="1" />
     <mutation Name="IrritableGenome" />
-    <mutation Name="MassMind" Level="1d3" />
-    <mutation Name="MultipleArms" Level="1d3" />
-    <mutation Name="LifeDrain" Level="1d3" />
+    <mutation Name="MassMind" Level="1" />
+    <mutation Name="MultipleArms" Level="1" />
+    <mutation Name="LifeDrain" Level="1" />
   </object>
 
   <object Name="AAVPE_Phenoka" Inherits="AAVPE_WatervineFarmer">
@@ -326,11 +326,11 @@
     <stat Name="Intelligence" sValue="19,1d3" />
     <stat Name="Willpower" sValue="16,1d3" />
     <stat Name="Ego" sValue="16,1d3" />
-    <mutation Name="Burgeoning" Level="1d3" />
+    <mutation Name="Burgeoning" Level="1" />
     <mutation Name="Dystechnia" />
-    <mutation Name="MentalMirror" Level="1d3" />
-    <mutation Name="PhotosyntheticSkin" Level="1d3" />
-    <mutation Name="Regeneration" Level="1d3" />
+    <mutation Name="MentalMirror" Level="1" />
+    <mutation Name="PhotosyntheticSkin" Level="1" />
+    <mutation Name="Regeneration" Level="1" />
   </object>
 
   <object Name="AAVPE_Vanatyn" Inherits="AAVPE_Scholar">
@@ -344,11 +344,11 @@
     <stat Name="Willpower" sValue="18,1d3" />
     <stat Name="Ego" sValue="18,1d3" />
     <mutation Name="EvilTwin" />
-    <mutation Name="TeleportOther" Level="1d3" />
-    <mutation Name="TemporalFugue" Level="1d3" />
+    <mutation Name="TeleportOther" Level="1" />
+    <mutation Name="TemporalFugue" Level="1" />
     <mutation Name="ThickFur" />
-    <mutation Name="TwoHeaded" Level="1d3" />
-    <mutation Name="Regeneration" Level="1d3" />
+    <mutation Name="TwoHeaded" Level="1" />
+    <mutation Name="Regeneration" Level="1" />
   </object>
 
   <object Name="AAVPE_Zavendyr" Inherits="AAVPE_Tinker">
@@ -361,12 +361,12 @@
     <stat Name="Intelligence" sValue="20,1d3" />
     <stat Name="Willpower" sValue="18,1d3" />
     <stat Name="Ego" sValue="18,1d3" />
-    <mutation Name="ElectricalGeneration" Level="1d3" />
+    <mutation Name="ElectricalGeneration" Level="1" />
     <mutation Name="ElectromagneticImpulse" />
-    <mutation Name="ElectromagneticPulse" Level="1d3" />
+    <mutation Name="ElectromagneticPulse" Level="1" />
     <mutation Name="NightVision" />
-    <mutation Name="Psychometry" Level="1d3" />
-    <mutation Name="TwoHeaded" Level="1d3" />
+    <mutation Name="Psychometry" Level="1" />
+    <mutation Name="TwoHeaded" Level="1" />
   </object>
 
   <!--TrueKin-->

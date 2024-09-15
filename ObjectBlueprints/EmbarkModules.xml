@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <embarkmodules>
-  </module>
+  <module Class="XRL.CharacterBuilds.Qud.QudPregenModule">
+    <pregens>
 
   <!--Mutants-->
 
@@ -75,7 +76,7 @@
         </description>
       </pregen>
 
-      <pregen Name="Jayvari" Genotype="Mutated Human" Tile="Presets/JayvariPreset.png" Foreground="y" Detail="w" Background="k">
+      <pregen Name="Jayvari" Genotype="Mutated Human" Tile="Presets/EskvalyrPreset.png" Foreground="y" Detail="w" Background="k">
         <code>H4sIAAAAAAAACs1W227aQBB9j5R/WFl9aCUHQZombaU8OO6FpkGiAdFKVR7W9tSsWO+4eymiiH/vrg2xDSokFY2wZJmdM5ezx7Nj5sdHhHgpzeAXSMVQeG+Jd9pqt07bF63zl55f4JFhPKk5dKxDe4llmBgOypq/uzUh8/JxDw1nObigb7c3rXBMJY01yCuXUbW+mMTdH0Ggtm69IsAngVKQRXx2Eg5sQO6TUVn7smLmk9BwbSRcCjBaUu6Tvok4iz/DbIgTEJfCcF5yLMgkVFNL456dNT3Tj6X2zibZoFcVsTlX/i5tz2iqISFdk1HR8NrQcoUtyh8L/5+1HJjoQKVsMNut5NLdJQ1kjIIa/VQaFi/O5lYHqOIat906ZrnN2K5bFHCIixzVqS2veX1Blh28FPkK6KSeuHAYUcmo0Cuc9CVGqGKmNjxDNIVfp25f+A+ubqTEKRMpCTmdbqaviDiZ91y8i1JsK1k6kJCqnwb2vfOebSuWcyCBzJ543wNtBQdJnvdtK/LZbyf/yA647MU2MVZRZZDafy90ESeK/EBJPgDovUhSLe7+OmM6e50xgdaSRUbDIQ6ZdXK7p0wfmdCqb2Q8pgqSZk03zbUEkeqxBd40XokXpIwzPbPA6yYwRJOOBSi1CX0SGjhnKYjYbeW8iX5lnOc4BWmhiyb0PkVrfFXZ6l3n0XyQQ9EdJ2dnTeAWMsqEbez1YRrZ7QZuxDYj/uPXKRwjKhhoKt1Bu8G4OBgH2EXbiD7g+78W54pdY57Tx/0LcI+746PFH6ErrAXqCgAA</code>
         <description>
 &amp;c&#249;&amp;y {{bee|Stinging Clawfiend}}
@@ -238,5 +239,6 @@
         </description>
       </pregen>
 
+    </pregens>
   </module>
 </embarkmodules>
