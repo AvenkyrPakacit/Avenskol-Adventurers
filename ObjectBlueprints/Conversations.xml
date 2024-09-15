@@ -20,21 +20,11 @@
   <conversation ID="AAVPE_Akdara">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        AXES READY!~
+        CHOP CHOP!~
+        TO ARMS!
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, wayfarers..</choice>
     </node>
   </conversation>
 
@@ -42,17 +32,8 @@
     <node ID="Start">
       <text>
         Claws are sharpened.~
-        .~
-        .~
         Is there something you need?~
         Mind the antlers.~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
         The herd is in need of supplies, don't interrupt the scavenging.
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
@@ -62,19 +43,10 @@
   <conversation ID="AAVPE_Chyratyl">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        Ammo ready.~
+        Ammunition is full.~
+        Ready to fire.~
+        Time to fire.
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>
@@ -97,17 +69,9 @@
   <conversation ID="AAVPE_Eskvalyr">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
         Is there something you need?~
         Mind the stinger.~
         My poison is best avoided.~
-        .~
-        .~
-        .~
-        .~
-        .~
         Tail is sharpened, and ready to sting.~
         Yes my blade is as starp as my tail, although that's of no concern.
       </text>
@@ -118,19 +82,12 @@
   <conversation ID="AAVPE_Iyavi">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        BURN!~
+        BURN BURN!~
+        NOWHERE TO HIDE!~
+        NOWHERE TO RUN!~
+        READY TO RUN!~
+        TIME TO BURN!
       </text>
       <choice GotoID="End">Live and drink, wayfarer.</choice>
     </node>
@@ -202,21 +159,13 @@
   <conversation ID="AAVPE_Phenoka">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a plantcaster.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, plantcaster.</choice>
     </node>
   </conversation>
 
@@ -284,63 +233,39 @@
   <conversation ID="AAVPE_Akvalyx">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a rogue.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, rogue.</choice>
     </node>
   </conversation>
 
   <conversation ID="AAVPE_Atevalyx">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a priest.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, priest.</choice>
     </node>
   </conversation>
 
   <conversation ID="AAVPE_Azadus">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a blaster.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, blaster.</choice>
     </node>
   </conversation>
 
@@ -389,21 +314,13 @@
   <conversation ID="AAVPE_Azkidus">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a tinker.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, tinker.</choice>
     </node>
   </conversation>
 
@@ -431,21 +348,13 @@
   <conversation ID="AAVPE_Ikvalyx">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a scout.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, scout.</choice>
     </node>
   </conversation>
 
@@ -453,25 +362,30 @@
     <node ID="Start">
       <text>
         I know what the robots like.~
+        I'm just a bolter.~
         Locked and loaded!~
         Need some firepower?~
         Plenty of ammo to go around.~
-        You need a weapon?
+        You need a weapon?~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, bolter.</choice>
     </node>
   </conversation>
 
   <conversation ID="AAVPE_Rikani">
     <node ID="Start">
       <text>
-        .~
-        .~
-        .~
-        .~
-        .
+        I'm just a runner.~
+        Who?~
+        Who are you?~
+        What?~
+        What are you?
       </text>
-      <choice GotoID="End">Live and drink, wayfarer.</choice>
+      <choice GotoID="End">Live and drink, runner.</choice>
     </node>
   </conversation>
 

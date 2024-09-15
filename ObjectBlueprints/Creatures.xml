@@ -50,11 +50,13 @@
 
   <object Name="AAVPE_Greybeard" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_Greybeard" />
+    <part Name="Brain" Factions="Bears-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Gunslinger" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_Gunslinger" />
+    <part Name="Brain" Factions="Strangers-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
@@ -70,6 +72,7 @@
 
   <object Name="AAVPE_Nomad" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_Nomad" />
+    <part Name="Brain" Factions="Issachari-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
@@ -105,21 +108,25 @@
 
   <object Name="AAVPE_Tinker" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_Tinker" />
+    <part Name="Brain" Factions="Barathrumites-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Warden" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_Warden" />
+    <part Name="Brain" Factions="Wardens-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_WaterMerchant" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_WaterMerchant" />
+    <part Name="Brain" Factions="Water-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_WatervineFarmer" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_WatervineFarmer" />
+    <part Name="Brain" Factions="Farmers-100,Joppa-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
@@ -127,7 +134,7 @@
 
   <object Name="AAVPE_Aekavyr" Inherits="AAVPE_Apostle">
     <part Name="Render" DisplayName="aekavyr" Tile="NPCs/AekavyrNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="C" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Aekavyr" />
     <stat Name="Strength" sValue="18,1d3" />
     <stat Name="Agility" sValue="16,1d3" />
@@ -165,7 +172,7 @@
 
   <object Name="AAVPE_Akdara" Inherits="AAVPE_Marauder">
     <part Name="Render" DisplayName="akdara" Tile="NPCs/AkdaraNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="M" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Akdara" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
@@ -182,7 +189,7 @@
 
   <object Name="AAVPE_Chyratyl" Inherits="AAVPE_Gunslinger">
     <part Name="Render" DisplayName="chyratyl" Tile="NPCs/ChyratylNPC.png" RenderString="c" ColorString="&amp;y" DetailColor="Y" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Chyratyl" />
     <stat Name="Strength" sValue="16,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
@@ -220,7 +227,7 @@
   <object Name="AAVPE_Eskvalyr" Inherits="AAVPE_Warden">
     <part Name="Brain" Hostile="false" Factions="Arachnids-100" />
     <part Name="Render" DisplayName="eskvalyr" Tile="NPCs/EskvalyrNPC.png" RenderString="e" ColorString="&amp;y" DetailColor="w" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Eskvalyr" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -257,7 +264,7 @@
   <object Name="AAVPE_Ixanae" Inherits="AAVPE_Pilgrim">
     <part Name="Brain" Hostile="false" Factions="Entropic-100" />
     <part Name="Render" DisplayName="ixanae" Tile="NPCs/IxanaeNPC.png" RenderString="i" ColorString="&amp;y" DetailColor="m" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Ixanae" />
     <stat Name="Strength" sValue="16,1d3" />
     <stat Name="Agility" sValue="16,1d3" />
@@ -294,7 +301,7 @@
   <object Name="AAVPE_Orikate" Inherits="AAVPE_Marauder">
     <part Name="Brain" Hostile="True" Factions="Entropic-100" />
     <part Name="Render" DisplayName="orikate" Tile="NPCs/OrikateNPC.png" RenderString="o" ColorString="&amp;y" DetailColor="O" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Orikate" />
     <stat Name="Strength" sValue="19,1d3" />
     <stat Name="Agility" sValue="17,1d3" />
@@ -311,7 +318,7 @@
 
   <object Name="AAVPE_Phenoka" Inherits="AAVPE_WatervineFarmer">
     <part Name="Render" DisplayName="phenoka" Tile="NPCs/PhenokaNPC.png" RenderString="p" ColorString="&amp;y" DetailColor="K" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Phenoka" />
     <stat Name="Strength" sValue="17,1d3" />
     <stat Name="Agility" sValue="17,1d3" />
@@ -328,7 +335,7 @@
 
   <object Name="AAVPE_Vanatyn" Inherits="AAVPE_Scholar">
     <part Name="Render" DisplayName="vanatyn" Tile="NPCs/VanatynNPC.png" RenderString="v" ColorString="&amp;y" DetailColor="M" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Vanatyn" />
     <stat Name="Strength" sValue="18,1d3" />
     <stat Name="Agility" sValue="16,1d3" />
@@ -346,7 +353,7 @@
 
   <object Name="AAVPE_Zavendyr" Inherits="AAVPE_Tinker">
     <part Name="Render" DisplayName="zavendyr" Tile="NPCs/ZavendyrNPC.png" RenderString="z" ColorString="&amp;y" DetailColor="R" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Zavendyr" />
     <stat Name="Strength" sValue="16,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -366,7 +373,7 @@
 
   <object Name="AAVPE_Akevalyx" Inherits="AAVPE_PriestOfAllSuns">
     <part Name="Render" DisplayName="akevalyx" Tile="NPCs/AkevalyxNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="g" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Akevalyx" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -379,7 +386,7 @@
 
   <object Name="AAVPE_Akvalyx" Inherits="AAVPE_Syzygyrior">
     <part Name="Render" DisplayName="akvalyx" Tile="NPCs/AkvalyxNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="G" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Akvalyx" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="21,1d3" />
@@ -391,7 +398,7 @@
 
   <object Name="AAVPE_Atevalyx" Inherits="AAVPE_PriestofAllMoons">
     <part Name="Render" DisplayName="atevalyx" Tile="NPCs/AtevalyxNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="b" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Atevalyx" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -404,7 +411,7 @@
 
   <object Name="AAVPE_Azadus" Inherits="AAVPE_Eunuch">
     <part Name="Render" DisplayName="azadus" Tile="NPCs/AzadusNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="G" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Azadus" />
     <stat Name="Strength" sValue="18,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
@@ -417,7 +424,7 @@
 
   <object Name="AAVPE_Azdius" Inherits="AAVPE_Consul">
     <part Name="Render" DisplayName="azdius" Tile="NPCs/AzdiusNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="M" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Azdius" />
     <stat Name="Strength" sValue="17,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -430,7 +437,7 @@
 
   <object Name="AAVPE_Azkaos" Inherits="AAVPE_Praetorian">
     <part Name="Render" DisplayName="azkaos" Tile="NPCs/AzkaosNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="W" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Azkaos" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="19,1d3" />
@@ -442,7 +449,7 @@
 
   <object Name="AAVPE_Azkidus" Inherits="AAVPE_Artifex">
     <part Name="Render" DisplayName="azkidus" Tile="NPCs/AzkidusNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="c" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Azkidus" />
     <stat Name="Strength" sValue="17,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -455,7 +462,7 @@
 
   <object Name="AAVPE_Balkine" Inherits="AAVPE_ChildoftheHearth">
     <part Name="Render" DisplayName="balkine" Tile="NPCs/BalkineNPC.png" RenderString="b" ColorString="&amp;y" DetailColor="W" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Balkine" />
     <stat Name="Strength" sValue="21,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
@@ -467,7 +474,7 @@
 
   <object Name="AAVPE_Ikvalyx" Inherits="AAVPE_Horticulturist">
     <part Name="Render" DisplayName="ikvalyx" Tile="NPCs/IkvalyxNPC.png" RenderString="i" ColorString="&amp;y" DetailColor="R" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Ikvalyx" />
     <stat Name="Strength" sValue="18,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
@@ -480,7 +487,7 @@
 
   <object Name="AAVPE_Kanati" Inherits="AAVPE_ChildoftheDeep">
     <part Name="Render" DisplayName="kanati" Tile="NPCs/KanatiNPC.png" RenderString="k" ColorString="&amp;y" DetailColor="W" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Kanati" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
@@ -493,7 +500,7 @@
 
   <object Name="AAVPE_Rikani" Inherits="AAVPE_ChildoftheWheel">
     <part Name="Render" DisplayName="rikani" Tile="NPCs/RikaniNPC.png" RenderString="r" ColorString="&amp;y" DetailColor="r" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Rikani" />
     <stat Name="Strength" sValue="20,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
@@ -506,7 +513,7 @@
 
   <object Name="AAVPE_Tamikai" Inherits="AAVPE_FumingGodChild">
     <part Name="Render" DisplayName="tamikai" Tile="NPCs/TamikaiNPC.png" RenderString="t" ColorString="&amp;y" DetailColor="m" />
-    <part Name="Description" Short="." />
+    <part Name="Description" Short="Placeholder" />
     <part Name="ConversationScript" ConversationID="AAVPE_Tamikai" />
     <stat Name="Strength" sValue="18,1d3" />
     <stat Name="Agility" sValue="18,1d3" />
