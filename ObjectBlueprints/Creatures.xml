@@ -4,104 +4,124 @@
   <!--Bases-->
 
   <object Name="AAVPE_Apostle" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Apostle" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Arconaut" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Arconaut" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Artifex" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Artifex" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_ChildoftheDeep" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_ChildoftheDeep" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_ChildoftheHearth" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_ChildoftheHearth" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_ChildoftheWheel" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_ChildoftheWheel" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Consul" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Consul" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Eunuch" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Eunuch" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_FumingGodChild" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_FumingGodChild" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Greybeard" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Greybeard" />
     <part Name="Brain" Factions="Bears-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Gunslinger" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Gunslinger" />
     <part Name="Brain" Factions="Strangers-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Horticulturist" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Horticulturist" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Marauder" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Marauder" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Nomad" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Nomad" />
     <part Name="Brain" Factions="Issachari-100" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Pilgrim" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Pilgrim" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Praetorian" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Praetorian" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_PriestofAllMoons" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_PriestofAllMoons" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_PriestOfAllSuns" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_PriestOfAllSuns" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Scholar" Inherits="NPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Scholar" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
   <object Name="AAVPE_Syzygyrior" Inherits="TrueKinNPC">
+    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Syzygyrior" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
@@ -121,6 +141,8 @@
   <object Name="AAVPE_WaterMerchant" Inherits="NPC">
     <tag Name="InventoryPopulationTable" Value="StartingGear_WaterMerchant" />
     <part Name="Brain" Factions="Water-100" />
+    <part Name="GenericInventoryRestocker" Table="GeneralMerchantWares" RestockFrequencyDays="14" />
+    <tag Name="Merchant" />
     <tag Name="BaseObject" Value="*noinherit" />
   </object>
 
@@ -150,6 +172,48 @@
     <mutation Name="MentalMirror" Level="1" />
   </object>
 
+  <object Name="AAVPE_Aekavyr1" Inherits="AAVPE_Aekavyr">
+    <mutation Name="ForceBubble" Level="2" />
+    <mutation Name="LightManipulation" Level="2" />
+    <mutation Name="MassMind" Level="2" />
+    <mutation Name="MentalMirror" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Aekavyr2" Inherits="AAVPE_Aekavyr">
+    <mutation Name="ForceBubble" Level="3" />
+    <mutation Name="LightManipulation" Level="3" />
+    <mutation Name="MassMind" Level="3" />
+    <mutation Name="MentalMirror" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Aekavyr3" Inherits="AAVPE_Aekavyr">
+    <mutation Name="ForceBubble" Level="4" />
+    <mutation Name="LightManipulation" Level="4" />
+    <mutation Name="MassMind" Level="4" />
+    <mutation Name="MentalMirror" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Aekavyr4" Inherits="AAVPE_Aekavyr">
+    <mutation Name="ForceBubble" Level="5" />
+    <mutation Name="LightManipulation" Level="5" />
+    <mutation Name="MassMind" Level="5" />
+    <mutation Name="MentalMirror" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Aekavyr5" Inherits="AAVPE_Aekavyr">
+    <mutation Name="ForceBubble" Level="6" />
+    <mutation Name="LightManipulation" Level="6" />
+    <mutation Name="MassMind" Level="6" />
+    <mutation Name="MentalMirror" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Aekavyr6" Inherits="AAVPE_Aekavyr">
+    <mutation Name="ForceBubble" Level="7" />
+    <mutation Name="LightManipulation" Level="7" />
+    <mutation Name="MassMind" Level="7" />
+    <mutation Name="MentalMirror" Level="7" />
+  </object>
+
   <object Name="AAVPE_Ajitak" Inherits="AAVPE_Arconaut">
     <part Name="Brain" Hostile="false" Factions="Prey-100" />
     <part Name="Render" DisplayName="ajitak" Tile="NPCs/AjitakNPC.png" RenderString="a" ColorString="&amp;y" DetailColor="w" />
@@ -168,6 +232,54 @@
     <mutation Name="Horns" Level="1" Variant="Horns Antlers" />
     <mutation Name="HeightenedAgility" Level="1" />
     <mutation Name="TwoHearted" Level="1" />
+  </object>
+
+  <object Name="AAVPE_Ajitak1" Inherits="AAVPE_Ajitak">
+    <mutation Name="BurrowingClaws" Level="2" />
+    <mutation Name="HeightenedStrength" Level="2" />
+    <mutation Name="Horns" Level="2" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="2" />
+    <mutation Name="TwoHearted" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Ajitak2" Inherits="AAVPE_Ajitak">
+    <mutation Name="BurrowingClaws" Level="3" />
+    <mutation Name="HeightenedStrength" Level="3" />
+    <mutation Name="Horns" Level="3" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="3" />
+    <mutation Name="TwoHearted" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Ajitak3" Inherits="AAVPE_Ajitak">
+    <mutation Name="BurrowingClaws" Level="4" />
+    <mutation Name="HeightenedStrength" Level="4" />
+    <mutation Name="Horns" Level="4" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="4" />
+    <mutation Name="TwoHearted" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Ajitak4" Inherits="AAVPE_Ajitak">
+    <mutation Name="BurrowingClaws" Level="5" />
+    <mutation Name="HeightenedStrength" Level="5" />
+    <mutation Name="Horns" Level="5" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="5" />
+    <mutation Name="TwoHearted" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Ajitak5" Inherits="AAVPE_Ajitak">
+    <mutation Name="BurrowingClaws" Level="6" />
+    <mutation Name="HeightenedStrength" Level="6" />
+    <mutation Name="Horns" Level="6" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="6" />
+    <mutation Name="TwoHearted" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Ajitak6" Inherits="AAVPE_Ajitak">
+    <mutation Name="BurrowingClaws" Level="7" />
+    <mutation Name="HeightenedStrength" Level="7" />
+    <mutation Name="Horns" Level="7" Variant="Horns Antlers" />
+    <mutation Name="HeightenedAgility" Level="7" />
+    <mutation Name="TwoHearted" Level="7" />
   </object>
 
   <object Name="AAVPE_Akdara" Inherits="AAVPE_Marauder">
@@ -224,6 +336,48 @@
     <mutation Name="Wings" Level="1" />
   </object>
 
+  <object Name="AAVPE_Dyavi1" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="2" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="2" />
+    <mutation Name="Wings" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Dyavi1" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="2" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="2" />
+    <mutation Name="Wings" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Dyavi2" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="3" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="3" />
+    <mutation Name="Wings" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Dyavi3" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="4" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="4" />
+    <mutation Name="Wings" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Dyavi4" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="5" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="5" />
+    <mutation Name="Wings" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Dyavi5" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="6" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="6" />
+    <mutation Name="Wings" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Dyavi6" Inherits="AAVPE_Dyavi">
+    <mutation Name="Horns" Level="7" Variant="Horns Single" />
+    <mutation Name="PhotosyntheticSkin" Level="7" />
+    <mutation Name="Wings" Level="7" />
+  </object>
+
   <object Name="AAVPE_Eskvalyr" Inherits="AAVPE_Warden">
     <part Name="Brain" Hostile="false" Factions="Arachnids-100" />
     <part Name="Render" DisplayName="eskvalyr" Tile="NPCs/EskvalyrNPC.png" RenderString="e" ColorString="&amp;y" DetailColor="w" />
@@ -261,6 +415,48 @@
     <mutation Name="MultipleLegs" Level="1" />
   </object>
 
+  <object Name="AAVPE_Iyavi1" Inherits="AAVPE_Iyavi">
+    <mutation Name="AdrenalControl2" Level="2" />
+    <mutation Name="FlamingRay" Level="2" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="2" />
+    <mutation Name="MultipleLegs" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Iyavi2" Inherits="AAVPE_Iyavi">
+    <mutation Name="AdrenalControl2" Level="3" />
+    <mutation Name="FlamingRay" Level="3" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="3" />
+    <mutation Name="MultipleLegs" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Iyavi3" Inherits="AAVPE_Iyavi">
+    <mutation Name="AdrenalControl2" Level="4" />
+    <mutation Name="FlamingRay" Level="4" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="4" />
+    <mutation Name="MultipleLegs" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Iyavi4" Inherits="AAVPE_Iyavi">
+    <mutation Name="AdrenalControl2" Level="5" />
+    <mutation Name="FlamingRay" Level="5" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="5" />
+    <mutation Name="MultipleLegs" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Iyavi5" Inherits="AAVPE_Iyavi">
+    <mutation Name="AdrenalControl2" Level="6" />
+    <mutation Name="FlamingRay" Level="6" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="6" />
+    <mutation Name="MultipleLegs" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Iyavi6" Inherits="AAVPE_Iyavi">
+    <mutation Name="AdrenalControl2" Level="7" />
+    <mutation Name="FlamingRay" Level="7" BodyPartType="Face" />
+    <mutation Name="HeightenedSpeed" Level="7" />
+    <mutation Name="MultipleLegs" Level="7" />
+  </object>
+
   <object Name="AAVPE_Ixanae" Inherits="AAVPE_Pilgrim">
     <part Name="Brain" Hostile="false" Factions="Entropic-100" />
     <part Name="Render" DisplayName="ixanae" Tile="NPCs/IxanaeNPC.png" RenderString="i" ColorString="&amp;y" DetailColor="m" />
@@ -284,6 +480,7 @@
     <part Name="Render" DisplayName="kalavyl" Tile="NPCs/KalavylNPC.png" RenderString="k" ColorString="&amp;y" DetailColor="g" />
     <part Name="Description" Short="The icy bill gives these wayfarers a calm, but welcoming demeanor. =pronouns.Possessive= short-sightedness, is a mere side effect of =pronouns.possessive= psionic will, ensuring =pronouns.subjective==verb:'re:afterpronoun= never alone." />
     <part Name="ConversationScript" ConversationID="AAVPE_Kalavyl" />
+    <part Name="GenericInventoryRestocker" Table="Tier1Wares" RestockFrequencyDays="14" />
     <stat Name="Strength" sValue="17,1d3" />
     <stat Name="Agility" sValue="20,1d3" />
     <stat Name="Toughness" sValue="16,1d3" />
@@ -296,6 +493,55 @@
     <mutation Name="Myopia" />
     <mutation Name="TemporalFugue" Level="1" />
     <mutation Name="WillForce" Level="1" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl1" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier2Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="2" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="2" />
+    <mutation Name="WillForce" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl2" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier3Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="3" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="3" />
+    <mutation Name="WillForce" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl3" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier4Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="4" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="4" />
+    <mutation Name="WillForce" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl4" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier5Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="5" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="5" />
+    <mutation Name="WillForce" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl4" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier6Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="6" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="6" />
+    <mutation Name="WillForce" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl5" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier7Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="6" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="6" />
+    <mutation Name="WillForce" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Kalavyl6" Inherits="AAVPE_Kalavyl">
+    <part Name="GenericInventoryRestocker" Table="Tier8Wares" RestockFrequencyDays="14" />
+    <mutation Name="FreezingRay" Level="7" BodyPartType="Face" />
+    <mutation Name="TemporalFugue" Level="7" />
+    <mutation Name="WillForce" Level="7" />
   </object>
 
   <object Name="AAVPE_Orikate" Inherits="AAVPE_Marauder">
