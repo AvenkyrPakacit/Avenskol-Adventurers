@@ -58,7 +58,6 @@
   </object>
 
   <object Name="AAVPE_Greybeard" Inherits="NPC">
-    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Greybeard" />
     <part Name="Brain" Factions="Bears-100" />
     <tag Name="BaseObject" Value="*noinherit" />
@@ -84,7 +83,6 @@
   </object>
 
   <object Name="AAVPE_Nomad" Inherits="NPC">
-    <part Name="Brain" Factions="Playerneutral-100" />
     <tag Name="InventoryPopulationTable" Value="StartingGear_Nomad" />
     <part Name="Brain" Factions="Issachari-100" />
     <tag Name="BaseObject" Value="*noinherit" />
