@@ -297,6 +297,42 @@
     <mutation Name="TwoHeaded" Level="1" />
   </object>
 
+  <object Name="AAVPE_Akdara1" Inherits="AAVPE_Akdara">
+    <mutation Name="MultipleArms" Level="2" />
+    <mutation Name="MultipleLegs" Level="2" />
+    <mutation Name="TwoHeaded" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Akdara2" Inherits="AAVPE_Akdara">
+    <mutation Name="MultipleArms" Level="3" />
+    <mutation Name="MultipleLegs" Level="3" />
+    <mutation Name="TwoHeaded" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Akdara3" Inherits="AAVPE_Akdara">
+    <mutation Name="MultipleArms" Level="4" />
+    <mutation Name="MultipleLegs" Level="4" />
+    <mutation Name="TwoHeaded" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Akdara4" Inherits="AAVPE_Akdara">
+    <mutation Name="MultipleArms" Level="5" />
+    <mutation Name="MultipleLegs" Level="5" />
+    <mutation Name="TwoHeaded" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Akdara5" Inherits="AAVPE_Akdara">
+    <mutation Name="MultipleArms" Level="6" />
+    <mutation Name="MultipleLegs" Level="6" />
+    <mutation Name="TwoHeaded" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Akdara6" Inherits="AAVPE_Akdara">
+    <mutation Name="MultipleArms" Level="7" />
+    <mutation Name="MultipleLegs" Level="7" />
+    <mutation Name="TwoHeaded" Level="7" />
+  </object>
+
   <object Name="AAVPE_Chyratyl" Inherits="AAVPE_Gunslinger">
     <part Name="Render" DisplayName="chyratyl" Tile="NPCs/ChyratylNPC.png" RenderString="c" ColorString="&amp;y" DetailColor="Y" />
     <part Name="Description" Short="Placeholder" />
@@ -313,6 +349,54 @@
     <mutation Name="HeightenedSpeed" Level="1" />
     <mutation Name="Wings" Level="1" />
     <mutation Name="TonicAllergy" />
+  </object>
+
+  <object Name="AAVPE_Chyratyl1" Inherits="AAVPE_Chyratyl">
+    <mutation Name="AdrenalControl2" Level="2" />
+    <mutation Name="HeightenedAgility" Level="2" />
+    <mutation Name="HeightenedHearing" Level="2" />
+    <mutation Name="HeightenedSpeed" Level="2" />
+    <mutation Name="Wings" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Chyratyl2" Inherits="AAVPE_Chyratyl">
+    <mutation Name="AdrenalControl2" Level="3" />
+    <mutation Name="HeightenedAgility" Level="3" />
+    <mutation Name="HeightenedHearing" Level="3" />
+    <mutation Name="HeightenedSpeed" Level="3" />
+    <mutation Name="Wings" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Chyratyl3" Inherits="AAVPE_Chyratyl">
+    <mutation Name="AdrenalControl2" Level="4" />
+    <mutation Name="HeightenedAgility" Level="4" />
+    <mutation Name="HeightenedHearing" Level="4" />
+    <mutation Name="HeightenedSpeed" Level="4" />
+    <mutation Name="Wings" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Chyratyl4" Inherits="AAVPE_Chyratyl">
+    <mutation Name="AdrenalControl2" Level="5" />
+    <mutation Name="HeightenedAgility" Level="5" />
+    <mutation Name="HeightenedHearing" Level="5" />
+    <mutation Name="HeightenedSpeed" Level="5" />
+    <mutation Name="Wings" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Chyratyl5" Inherits="AAVPE_Chyratyl">
+    <mutation Name="AdrenalControl2" Level="6" />
+    <mutation Name="HeightenedAgility" Level="6" />
+    <mutation Name="HeightenedHearing" Level="6" />
+    <mutation Name="HeightenedSpeed" Level="6" />
+    <mutation Name="Wings" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Chyratyl6" Inherits="AAVPE_Chyratyl">
+    <mutation Name="AdrenalControl2" Level="7" />
+    <mutation Name="HeightenedAgility" Level="7" />
+    <mutation Name="HeightenedHearing" Level="7" />
+    <mutation Name="HeightenedSpeed" Level="7" />
+    <mutation Name="Wings" Level="7" />
   </object>
 
   <object Name="AAVPE_Dyavi" Inherits="AAVPE_Greybeard">
@@ -395,6 +479,54 @@
     <mutation Name="Stinger" Level="1" Variant="Stinger Poison" />
   </object>
 
+  <object Name="AAVPE_Eskvalyr1" Inherits="AAVPE_Eskvalyr">
+    <mutation Name="AdrenalControl2" Level="2" />
+    <mutation Name="HeightenedAgility" Level="2" />
+    <mutation Name="HeightenedHearing" Level="2" />
+    <mutation Name="HeightenedStrength" Level="2" />
+    <mutation Name="Stinger" Level="2" Variant="Stinger Poison" />
+  </object>
+
+  <object Name="AAVPE_Eskvalyr2" Inherits="AAVPE_Eskvalyr">
+    <mutation Name="AdrenalControl2" Level="3" />
+    <mutation Name="HeightenedAgility" Level="3" />
+    <mutation Name="HeightenedHearing" Level="3" />
+    <mutation Name="HeightenedStrength" Level="3" />
+    <mutation Name="Stinger" Level="3" Variant="Stinger Poison" />
+  </object>
+
+  <object Name="AAVPE_Eskvalyr3" Inherits="AAVPE_Eskvalyr">
+    <mutation Name="AdrenalControl2" Level="4" />
+    <mutation Name="HeightenedAgility" Level="4" />
+    <mutation Name="HeightenedHearing" Level="4" />
+    <mutation Name="HeightenedStrength" Level="4" />
+    <mutation Name="Stinger" Level="4" Variant="Stinger Poison" />
+  </object>
+
+  <object Name="AAVPE_Eskvalyr4" Inherits="AAVPE_Eskvalyr">
+    <mutation Name="AdrenalControl2" Level="5" />
+    <mutation Name="HeightenedAgility" Level="5" />
+    <mutation Name="HeightenedHearing" Level="5" />
+    <mutation Name="HeightenedStrength" Level="5" />
+    <mutation Name="Stinger" Level="5" Variant="Stinger Poison" />
+  </object>
+
+  <object Name="AAVPE_Eskvalyr5" Inherits="AAVPE_Eskvalyr">
+    <mutation Name="AdrenalControl2" Level="6" />
+    <mutation Name="HeightenedAgility" Level="6" />
+    <mutation Name="HeightenedHearing" Level="6" />
+    <mutation Name="HeightenedStrength" Level="6" />
+    <mutation Name="Stinger" Level="6" Variant="Stinger Poison" />
+  </object>
+
+  <object Name="AAVPE_Eskvalyr6" Inherits="AAVPE_Eskvalyr">
+    <mutation Name="AdrenalControl2" Level="7" />
+    <mutation Name="HeightenedAgility" Level="7" />
+    <mutation Name="HeightenedHearing" Level="7" />
+    <mutation Name="HeightenedStrength" Level="7" />
+    <mutation Name="Stinger" Level="7" Variant="Stinger Poison" />
+  </object>
+
   <object Name="AAVPE_Iyavi" Inherits="AAVPE_Nomad">
     <part Name="Render" DisplayName="iyavi" Tile="NPCs/IyaviNPC.png" RenderString="i" ColorString="&amp;y" DetailColor="R" />
     <part Name="Description" Short="At a distance one can see =pronouns.possessive= blazing frill racing in the night. =pronouns.Possessive= galloping run hastened by the heat around =pronouns.subjective=, as the adrenaline running through =pronouns.possessive= veins warms their blood." />
@@ -472,6 +604,54 @@
     <mutation Name="SpacetimeVortex" Level="1" />
     <mutation Name="TimeDilation" Level="1" />
     <mutation Name="QuantumJitters" />
+  </object>
+
+  <object Name="AAVPE_Ixanae1" Inherits="AAVPE_Ixanae">
+    <mutation Name="HeightenedHearing" Level="2" />
+    <mutation Name="HeightenedStrength" Level="2" />
+    <mutation Name="Phasing" Level="2" />
+    <mutation Name="SpacetimeVortex" Level="2" />
+    <mutation Name="TimeDilation" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Ixanae2" Inherits="AAVPE_Ixanae">
+    <mutation Name="HeightenedHearing" Level="3" />
+    <mutation Name="HeightenedStrength" Level="3" />
+    <mutation Name="Phasing" Level="3" />
+    <mutation Name="SpacetimeVortex" Level="3" />
+    <mutation Name="TimeDilation" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Ixanae3" Inherits="AAVPE_Ixanae">
+    <mutation Name="HeightenedHearing" Level="4" />
+    <mutation Name="HeightenedStrength" Level="4" />
+    <mutation Name="Phasing" Level="4" />
+    <mutation Name="SpacetimeVortex" Level="4" />
+    <mutation Name="TimeDilation" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Ixanae4" Inherits="AAVPE_Ixanae">
+    <mutation Name="HeightenedHearing" Level="5" />
+    <mutation Name="HeightenedStrength" Level="5" />
+    <mutation Name="Phasing" Level="5" />
+    <mutation Name="SpacetimeVortex" Level="5" />
+    <mutation Name="TimeDilation" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Ixanae5" Inherits="AAVPE_Ixanae">
+    <mutation Name="HeightenedHearing" Level="6" />
+    <mutation Name="HeightenedStrength" Level="6" />
+    <mutation Name="Phasing" Level="6" />
+    <mutation Name="SpacetimeVortex" Level="6" />
+    <mutation Name="TimeDilation" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Ixanae6" Inherits="AAVPE_Ixanae">
+    <mutation Name="HeightenedHearing" Level="7" />
+    <mutation Name="HeightenedStrength" Level="7" />
+    <mutation Name="Phasing" Level="7" />
+    <mutation Name="SpacetimeVortex" Level="7" />
+    <mutation Name="TimeDilation" Level="7" />
   </object>
 
   <object Name="AAVPE_Kalavyl" Inherits="AAVPE_WaterMerchant">
@@ -560,6 +740,48 @@
     <mutation Name="LifeDrain" Level="1" />
   </object>
 
+  <object Name="AAVPE_Orikate1" Inherits="AAVPE_Orikate">
+    <mutation Name="Domination" Level="2" />
+    <mutation Name="MassMind" Level="2" />
+    <mutation Name="MultipleArms" Level="2" />
+    <mutation Name="LifeDrain" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Orikate2" Inherits="AAVPE_Orikate">
+    <mutation Name="Domination" Level="3" />
+    <mutation Name="MassMind" Level="3" />
+    <mutation Name="MultipleArms" Level="3" />
+    <mutation Name="LifeDrain" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Orikate3" Inherits="AAVPE_Orikate">
+    <mutation Name="Domination" Level="4" />
+    <mutation Name="MassMind" Level="4" />
+    <mutation Name="MultipleArms" Level="4" />
+    <mutation Name="LifeDrain" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Orikate4" Inherits="AAVPE_Orikate">
+    <mutation Name="Domination" Level="5" />
+    <mutation Name="MassMind" Level="5" />
+    <mutation Name="MultipleArms" Level="5" />
+    <mutation Name="LifeDrain" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Orikate5" Inherits="AAVPE_Orikate">
+    <mutation Name="Domination" Level="6" />
+    <mutation Name="MassMind" Level="6" />
+    <mutation Name="MultipleArms" Level="6" />
+    <mutation Name="LifeDrain" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Orikate6" Inherits="AAVPE_Orikate">
+    <mutation Name="Domination" Level="7" />
+    <mutation Name="MassMind" Level="7" />
+    <mutation Name="MultipleArms" Level="7" />
+    <mutation Name="LifeDrain" Level="7" />
+  </object>
+
   <object Name="AAVPE_Phenoka" Inherits="AAVPE_WatervineFarmer">
     <part Name="Render" DisplayName="phenoka" Tile="NPCs/PhenokaNPC.png" RenderString="p" ColorString="&amp;y" DetailColor="K" />
     <part Name="Description" Short="Placeholder" />
@@ -575,6 +797,48 @@
     <mutation Name="MentalMirror" Level="1" />
     <mutation Name="PhotosyntheticSkin" Level="1" />
     <mutation Name="Regeneration" Level="1" />
+  </object>
+
+  <object Name="AAVPE_Phenoka1" Inherits="AAVPE_Phenoka">
+    <mutation Name="Burgeoning" Level="2" />
+    <mutation Name="MentalMirror" Level="2" />
+    <mutation Name="PhotosyntheticSkin" Level="2" />
+    <mutation Name="Regeneration" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Phenoka2" Inherits="AAVPE_Phenoka">
+    <mutation Name="Burgeoning" Level="3" />
+    <mutation Name="MentalMirror" Level="3" />
+    <mutation Name="PhotosyntheticSkin" Level="3" />
+    <mutation Name="Regeneration" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Phenoka3" Inherits="AAVPE_Phenoka">
+    <mutation Name="Burgeoning" Level="4" />
+    <mutation Name="MentalMirror" Level="4" />
+    <mutation Name="PhotosyntheticSkin" Level="4" />
+    <mutation Name="Regeneration" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Phenoka4" Inherits="AAVPE_Phenoka">
+    <mutation Name="Burgeoning" Level="5" />
+    <mutation Name="MentalMirror" Level="5" />
+    <mutation Name="PhotosyntheticSkin" Level="5" />
+    <mutation Name="Regeneration" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Phenoka5" Inherits="AAVPE_Phenoka">
+    <mutation Name="Burgeoning" Level="6" />
+    <mutation Name="MentalMirror" Level="6" />
+    <mutation Name="PhotosyntheticSkin" Level="6" />
+    <mutation Name="Regeneration" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Phenoka6" Inherits="AAVPE_Phenoka">
+    <mutation Name="Burgeoning" Level="7" />
+    <mutation Name="MentalMirror" Level="7" />
+    <mutation Name="PhotosyntheticSkin" Level="7" />
+    <mutation Name="Regeneration" Level="7" />
   </object>
 
   <object Name="AAVPE_Vanatyn" Inherits="AAVPE_Scholar">
@@ -595,6 +859,48 @@
     <mutation Name="Regeneration" Level="1" />
   </object>
 
+  <object Name="AAVPE_Vanatyn1" Inherits="AAVPE_Vanatyn">
+    <mutation Name="TeleportOther" Level="2" />
+    <mutation Name="TemporalFugue" Level="2" />
+    <mutation Name="TwoHeaded" Level="2" />
+    <mutation Name="Regeneration" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Vanatyn2" Inherits="AAVPE_Vanatyn">
+    <mutation Name="TeleportOther" Level="3" />
+    <mutation Name="TemporalFugue" Level="3" />
+    <mutation Name="TwoHeaded" Level="3" />
+    <mutation Name="Regeneration" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Vanatyn3" Inherits="AAVPE_Vanatyn">
+    <mutation Name="TeleportOther" Level="4" />
+    <mutation Name="TemporalFugue" Level="4" />
+    <mutation Name="TwoHeaded" Level="4" />
+    <mutation Name="Regeneration" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Vanatyn4" Inherits="AAVPE_Vanatyn">
+    <mutation Name="TeleportOther" Level="5" />
+    <mutation Name="TemporalFugue" Level="5" />
+    <mutation Name="TwoHeaded" Level="5" />
+    <mutation Name="Regeneration" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Vanatyn5" Inherits="AAVPE_Vanatyn">
+    <mutation Name="TeleportOther" Level="6" />
+    <mutation Name="TemporalFugue" Level="6" />
+    <mutation Name="TwoHeaded" Level="6" />
+    <mutation Name="Regeneration" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Vanatyn6" Inherits="AAVPE_Vanatyn">
+    <mutation Name="TeleportOther" Level="7" />
+    <mutation Name="TemporalFugue" Level="7" />
+    <mutation Name="TwoHeaded" Level="7" />
+    <mutation Name="Regeneration" Level="7" />
+  </object>
+
   <object Name="AAVPE_Zavendyr" Inherits="AAVPE_Tinker">
     <part Name="Render" DisplayName="zavendyr" Tile="NPCs/ZavendyrNPC.png" RenderString="z" ColorString="&amp;y" DetailColor="R" />
     <part Name="Description" Short="Placeholder" />
@@ -611,6 +917,48 @@
     <mutation Name="NightVision" />
     <mutation Name="Psychometry" Level="1" />
     <mutation Name="TwoHeaded" Level="1" />
+  </object>
+
+  <object Name="AAVPE_Zavendyr1" Inherits="AAVPE_Zavendyr">
+    <mutation Name="ElectricalGeneration" Level="2" />
+    <mutation Name="ElectromagneticPulse" Level="2" />
+    <mutation Name="Psychometry" Level="2" />
+    <mutation Name="TwoHeaded" Level="2" />
+  </object>
+
+  <object Name="AAVPE_Zavendyr2" Inherits="AAVPE_Zavendyr">
+    <mutation Name="ElectricalGeneration" Level="3" />
+    <mutation Name="ElectromagneticPulse" Level="3" />
+    <mutation Name="Psychometry" Level="3" />
+    <mutation Name="TwoHeaded" Level="3" />
+  </object>
+
+  <object Name="AAVPE_Zavendyr3" Inherits="AAVPE_Zavendyr">
+    <mutation Name="ElectricalGeneration" Level="4" />
+    <mutation Name="ElectromagneticPulse" Level="4" />
+    <mutation Name="Psychometry" Level="4" />
+    <mutation Name="TwoHeaded" Level="4" />
+  </object>
+
+  <object Name="AAVPE_Zavendyr4" Inherits="AAVPE_Zavendyr">
+    <mutation Name="ElectricalGeneration" Level="5" />
+    <mutation Name="ElectromagneticPulse" Level="5" />
+    <mutation Name="Psychometry" Level="5" />
+    <mutation Name="TwoHeaded" Level="5" />
+  </object>
+
+  <object Name="AAVPE_Zavendyr5" Inherits="AAVPE_Zavendyr">
+    <mutation Name="ElectricalGeneration" Level="6" />
+    <mutation Name="ElectromagneticPulse" Level="6" />
+    <mutation Name="Psychometry" Level="6" />
+    <mutation Name="TwoHeaded" Level="6" />
+  </object>
+
+  <object Name="AAVPE_Zavendyr6" Inherits="AAVPE_Zavendyr">
+    <mutation Name="ElectricalGeneration" Level="7" />
+    <mutation Name="ElectromagneticPulse" Level="7" />
+    <mutation Name="Psychometry" Level="7" />
+    <mutation Name="TwoHeaded" Level="7" />
   </object>
 
   <!--TrueKin-->

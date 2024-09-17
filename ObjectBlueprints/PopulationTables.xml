@@ -91,18 +91,18 @@
       </group>
       <group Name="Creatures" Style="pickone">
         <object Number="0-2" Blueprint="AAVPE_Aekavyr1" />
-        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara1" />
         <object Number="0-2" Blueprint="AAVPE_Ajitak1" />
         <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
         <object Number="0-2" Blueprint="AAVPE_Dyavi1" />
-        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr1" />
         <object Number="0-2" Blueprint="AAVPE_Iyavi1" />
-        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae1" />
         <object Number="0-2" Blueprint="AAVPE_Kalavyl1" />
-        <object Number="0-2" Blueprint="AAVPE_Orikate" />
-        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
-        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
-        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate1" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka1" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn1" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr1" />
       </group>
     </group>
   </population>
@@ -115,18 +115,18 @@
       </group>
       <group Name="Creatures" Style="pickone">
         <object Number="0-2" Blueprint="AAVPE_Aekavyr2" />
-        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara2" />
         <object Number="0-2" Blueprint="AAVPE_Ajitak2" />
-        <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
+        <object Number="0-2" Blueprint="AAVPE_Chyratyl2" />
         <object Number="0-2" Blueprint="AAVPE_Dyavi2" />
-        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr2" />
         <object Number="0-2" Blueprint="AAVPE_Iyavi2" />
-        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae2" />
         <object Number="0-2" Blueprint="AAVPE_Kalavyl2" />
-        <object Number="0-2" Blueprint="AAVPE_Orikate" />
-        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
-        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
-        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate2" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka2" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn2" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr2" />
       </group>
     </group>
   </population>
@@ -139,18 +139,18 @@
       </group>
       <group Name="Creatures" Style="pickone">
         <object Number="0-2" Blueprint="AAVPE_Aekavyr3" />
-        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara3" />
         <object Number="0-2" Blueprint="AAVPE_Ajitak3" />
-        <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
+        <object Number="0-2" Blueprint="AAVPE_Chyratyl3" />
         <object Number="0-2" Blueprint="AAVPE_Dyavi3" />
-        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr3" />
         <object Number="0-2" Blueprint="AAVPE_Iyavi3" />
-        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae3" />
         <object Number="0-2" Blueprint="AAVPE_Kalavyl3" />
-        <object Number="0-2" Blueprint="AAVPE_Orikate" />
-        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
-        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
-        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate3" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka3" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn3" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr3" />
       </group>
     </group>
   </population>
@@ -163,18 +163,18 @@
       </group>
       <group Name="Creatures" Style="pickone">
         <object Number="0-2" Blueprint="AAVPE_Aekavyr4" />
-        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara4" />
         <object Number="0-2" Blueprint="AAVPE_Ajitak4" />
-        <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
+        <object Number="0-2" Blueprint="AAVPE_Chyratyl4" />
         <object Number="0-2" Blueprint="AAVPE_Dyavi4" />
-        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr4" />
         <object Number="0-2" Blueprint="AAVPE_Iyavi4" />
-        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae4" />
         <object Number="0-2" Blueprint="AAVPE_Kalavyl4" />
-        <object Number="0-2" Blueprint="AAVPE_Orikate" />
-        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
-        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
-        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate4" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka4" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn4" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr4" />
       </group>
     </group>
   </population>
@@ -187,18 +187,18 @@
       </group>
       <group Name="Creatures" Style="pickone">
         <object Number="0-2" Blueprint="AAVPE_Aekavyr5" />
-        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara5" />
         <object Number="0-2" Blueprint="AAVPE_Ajitak5" />
-        <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
+        <object Number="0-2" Blueprint="AAVPE_Chyratyl5" />
         <object Number="0-2" Blueprint="AAVPE_Dyavi5" />
-        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr5" />
         <object Number="0-2" Blueprint="AAVPE_Iyavi5" />
-        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae5" />
         <object Number="0-2" Blueprint="AAVPE_Kalavyl5" />
-        <object Number="0-2" Blueprint="AAVPE_Orikate" />
-        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
-        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
-        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate5" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka5" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn5" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr5" />
       </group>
     </group>
   </population>
@@ -211,18 +211,18 @@
       </group>
       <group Name="Creatures" Style="pickone">
         <object Number="0-2" Blueprint="AAVPE_Aekavyr6" />
-        <object Number="0-2" Blueprint="AAVPE_Akdara" />
+        <object Number="0-2" Blueprint="AAVPE_Akdara6" />
         <object Number="0-2" Blueprint="AAVPE_Ajitak6" />
-        <object Number="0-2" Blueprint="AAVPE_Chyratyl" />
+        <object Number="0-2" Blueprint="AAVPE_Chyratyl6" />
         <object Number="0-2" Blueprint="AAVPE_Dyavi6" />
-        <object Number="0-2" Blueprint="AAVPE_Eskvalyr" />
+        <object Number="0-2" Blueprint="AAVPE_Eskvalyr6" />
         <object Number="0-2" Blueprint="AAVPE_Iyavi6" />
-        <object Number="0-2" Blueprint="AAVPE_Ixanae" />
+        <object Number="0-2" Blueprint="AAVPE_Ixanae6" />
         <object Number="0-2" Blueprint="AAVPE_Kalavyl6" />
-        <object Number="0-2" Blueprint="AAVPE_Orikate" />
-        <object Number="0-2" Blueprint="AAVPE_Phenoka" />
-        <object Number="0-2" Blueprint="AAVPE_Vanatyn" />
-        <object Number="0-2" Blueprint="AAVPE_Zavendyr" />
+        <object Number="0-2" Blueprint="AAVPE_Orikate6" />
+        <object Number="0-2" Blueprint="AAVPE_Phenoka6" />
+        <object Number="0-2" Blueprint="AAVPE_Vanatyn6" />
+        <object Number="0-2" Blueprint="AAVPE_Zavendyr6" />
       </group>
     </group>
   </population>
@@ -234,23 +234,115 @@
         <table Weight="2" Name="AAVPE_TrueKinTier0" Chance="10" />
       </group>
       <group Name="Creatures" Style="pickone">
-        <object Number="0-2" Blueprint="AAVPE_Akevalyx" />
+        <!--<object Number="0-2" Blueprint="AAVPE_Akevalyx" />-->
         <object Number="0-2" Blueprint="AAVPE_Akvalyx" />
-        <object Number="0-2" Blueprint="AAVPE_Atevalyx" />
+        <!--<object Number="0-2" Blueprint="AAVPE_Atevalyx" />
         <object Number="0-2" Blueprint="AAVPE_Azadus" />
-        <object Number="0-2" Blueprint="AAVPE_Azdius" />
+        <object Number="0-2" Blueprint="AAVPE_Azdius" />-->
         <object Number="0-2" Blueprint="AAVPE_Azkaos" />
-        <object Number="0-2" Blueprint="AAVPE_Azkidus" />
+        <!--<object Number="0-2" Blueprint="AAVPE_Azkidus" />-->
         <object Number="0-2" Blueprint="AAVPE_Balkine" />
-        <object Number="0-2" Blueprint="AAVPE_Ikvalyx" />
+        <!--<object Number="0-2" Blueprint="AAVPE_Ikvalyx" />
         <object Number="0-2" Blueprint="AAVPE_Kanati" />
         <object Number="0-2" Blueprint="AAVPE_Rikani" />
-        <object Number="0-2" Blueprint="AAVPE_Tamikai" />
+        <object Number="0-2" Blueprint="AAVPE_Tamikai" />-->
       </group>
     </group>
   </population>
 
   <!--Vanilla-->
+
+  <population Name="SaltMarshZoneGlobals" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier1" />
+      <table Name="AAVPE_EncounterTier2" />
+    </group>
+  </population>
+
+  <population Name="SaltDesertZoneGlobals" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier2" />
+      <table Weight="3" Name="AAVPE_EncounterTier3" />
+      <table Name="AAVPE_EncounterTier4" />
+    </group>
+  </population>
+
+  <population Name="HillsZoneGlobals-Reachable" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier1" />
+      <table Weight="3" Name="AAVPE_EncounterTier2" />
+      <table Name="AAVPE_EncounterTier3" />
+    </group>
+  </population>
+
+  <population Name="DesertCanyonZoneGlobals-Reachable" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier2" />
+      <table Weight="3" Name="AAVPE_EncounterTier3" />
+      <table Name="AAVPE_EncounterTier4" />
+    </group>
+  </population>
+
+  <population Name="MountainsZoneGlobals-Reachable" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier3" />
+      <table Weight="3" Name="AAVPE_EncounterTier4" />
+      <table Name="AAVPE_EncounterTier5" />
+    </group>
+  </population>
+
+  <population Name="RiversZoneGlobals" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier3" />
+      <table Weight="3" Name="AAVPE_EncounterTier4" />
+      <table Name="AAVPE_EncounterTier5" />
+    </group>
+  </population>
+
+  <population Name="JungleZoneGlobals" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier3" />
+      <table Weight="3" Name="AAVPE_EncounterTier4" />
+      <table Name="AAVPE_EncounterTier5" />
+    </group>
+  </population>
+
+  <population Name="DeepJungleZoneGlobals-Reachable" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier4" />
+      <table Weight="3" Name="AAVPE_EncounterTier5" />
+      <table Name="AAVPE_EncounterTier6" />
+    </group>
+  </population>
+
+  <population Name="BananaGroveZoneGlobals" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier4" />
+      <table Weight="3" Name="AAVPE_EncounterTier5" />
+      <table Name="AAVPE_EncounterTier6" />
+    </group>
+  </population>
+
+  <population Name="RainbowWoodZoneGlobals" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickone">
+      <table Weight="2" Name="AAVPE_EncounterTier4" />
+      <table Weight="3" Name="AAVPE_EncounterTier5" />
+      <table Name="AAVPE_EncounterTier6" />
+    </group>
+  </population>
+
+  <population Name="StiltTents" load="Merge">
+    <group Name="AAVPE_Encounter" Style="pickeach">
+      <table Name="AAVPE_EncounterTier1" />
+      <table Name="AAVPE_EncounterTier2" />
+      <table Name="AAVPE_EncounterTier3" />
+      <table Name="AAVPE_EncounterTier4" />
+      <table Name="AAVPE_EncounterTier5" />
+      <table Name="AAVPE_EncounterTier6" />
+      <table Name="AAVPE_EncounterTier7" />
+      <table Name="AAVPE_EncounterTier8" />
+    </group>
+  </population>
 
   <population Name="Tier1RuinsCreatures" load="Merge">
     <group Name="AAVPE_Encounter" Style="pickone">
